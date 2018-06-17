@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\bin\Debug\netcoreapp2.0\ApiSwaggerTest.deps.json
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\bin\Debug\netcoreapp2.0\ApiSwaggerTest.runtimeconfig.json
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\bin\Debug\netcoreapp2.0\ApiSwaggerTest.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\bin\Debug\netcoreapp2.0\ApiSwaggerTest.dll
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\bin\Debug\netcoreapp2.0\ApiSwaggerTest.pdb
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\obj\Debug\netcoreapp2.0\ApiSwaggerTest.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\obj\Debug\netcoreapp2.0\ApiSwaggerTest.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\obj\Debug\netcoreapp2.0\ApiSwaggerTest.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\obj\Debug\netcoreapp2.0\ApiSwaggerTest.AssemblyInfo.cs
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\obj\Debug\netcoreapp2.0\ApiSwaggerTest.dll
+C:\Users\rafae\source\repos\ApiSwaggerTest\ApiSwaggerTest\obj\Debug\netcoreapp2.0\ApiSwaggerTest.pdb
